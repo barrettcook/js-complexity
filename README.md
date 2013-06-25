@@ -1,7 +1,7 @@
 js-complexity
 =============
 
-List code complexity for javascript files
+Recursively iterates over all javascript files and lists code complexity in descending order.
 
 # Installation
 ```bash
