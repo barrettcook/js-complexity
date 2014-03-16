@@ -30,3 +30,7 @@ Most cyclomatic-complex functions:
    ~/src/web/coolstatic/res/js/tagged/profile/wink.js _handleSendWink 19
    ~/src/web/coolstatic/res/js/tagged/account/hi5_migration.js pageAction 19
 ```
+
+# Inspiration
+* [esprima](https://github.com/ariya/esprima/blob/master/tools/list-complexity.js)
+* [JSComplexity](http://jscomplexity.org/)
